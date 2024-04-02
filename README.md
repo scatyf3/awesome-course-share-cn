@@ -8,7 +8,12 @@
 - [NJUCS-Course-Material](https://github.com/zhangyikaii/NJUCS-Course-Material)
 - [(SJTU) awesome-cs](https://github.com/SJTU-CSE/awesome-cs)
 - [HITSZ-OpenCS](https://github.com/HITSZ-OpenCS/HITSZ-OpenCS)
+- USTC
+    - [USTC评课社区](https://icourse.club/)
+    - [USTC-Course](https://github.com/USTC-Resource/USTC-Course)
+- [ucas-course](https://github.com/topics/ucas-course)
 - [BUAA_Course_Sharing](https://github.com/TheBloodthirster/BUAA_Course_Sharing)
 - BIT:
     - [BITCS-Coursework](https://github.com/spencerwooo/BITCS-Coursework)
     - [BIT-CS-Learning](https://github.com/songshangru/BIT-CS-Learning)
+- [SCU-EEE](https://scuteee.com/courses/index)
